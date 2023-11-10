@@ -1,4 +1,4 @@
-package project_dio_java;
+package diodesafiodeprojeto;
 
 public interface IConta {
 	

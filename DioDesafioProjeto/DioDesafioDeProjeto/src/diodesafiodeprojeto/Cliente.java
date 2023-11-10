@@ -1,4 +1,4 @@
-package project_dio_java;
+package diodesafiodeprojeto;
 
 public class Cliente {
 	
@@ -12,9 +12,5 @@ public class Cliente {
 	public void setNome(String nome) {
 		this.nome = nome;
 	}
-	
-	
-	
-	
-	
+		
 }
